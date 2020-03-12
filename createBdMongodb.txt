@@ -1,1 +1,1 @@
-db.usuarios.save({nombre:'raul andrade' ,telefono: '9984771983',correo: '140300088@ucaribe.edu.mx',contraseña:'9982003508'});
+db.usuarios.save({name:'raul andrade' ,phone: '9984771983',gmail: '140300088@ucaribe.edu.mx',password:'9982003508'});
