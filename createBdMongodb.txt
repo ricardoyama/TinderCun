@@ -1,0 +1,2 @@
+use tindercun;
+db.usuarios.save({name:'raul andrade' ,phone: '9984771983',gmail: '140300088@ucaribe.edu.mx',password:'9982003508'});
